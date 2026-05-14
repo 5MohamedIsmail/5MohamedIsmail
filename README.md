@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Aspiring+SOC+Analyst;Security+Operations+%7C+Networking+%7C+Linux;Blue+Team+%7C+Incident+Response+%7C+SIEM" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=5ad6a8&center=true&vCenter=true&width=700&lines=Aspiring+SOC+Analyst;Security+Operations+%7C+Networking+%7C+Linux;Blue+Team+%7C+Incident+Response+%7C+SIEM" />
   </a>
 </p>
 
